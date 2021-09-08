@@ -4,7 +4,7 @@ import classes from './MainHeader.module.css';
 const MainHeader = (props) => {
   return (
     <header className={classes.header}>
-      <h1>ReduxCart</h1>
+      <h1>My React Cart</h1>
       <nav>
         <ul>
           <li>
